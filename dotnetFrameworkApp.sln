@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28010.2003
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "dotnetFrameworkApp", "dotnetFrameworkApp\dotnetFrameworkApp.csproj", "{EF57696C-DEAD-42E0-B093-A9C02C64E79F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "dotnetFrameworkApp.Tests", "dotnetFrameworkApp.Tests\dotnetFrameworkApp.Tests.csproj", "{18B43F14-0315-4437-8773-EE58CDB9690C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EF57696C-DEAD-42E0-B093-A9C02C64E79F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EF57696C-DEAD-42E0-B093-A9C02C64E79F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EF57696C-DEAD-42E0-B093-A9C02C64E79F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EF57696C-DEAD-42E0-B093-A9C02C64E79F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{18B43F14-0315-4437-8773-EE58CDB9690C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{18B43F14-0315-4437-8773-EE58CDB9690C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{18B43F14-0315-4437-8773-EE58CDB9690C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{18B43F14-0315-4437-8773-EE58CDB9690C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {96420788-4FDB-4281-9351-8B36AAC53BD6}
+	EndGlobalSection
+EndGlobal
